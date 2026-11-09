@@ -4,6 +4,10 @@
 
 ## 1. Project Overview
 
+## Infrastructure Architecture
+
+![Windows Server 2025 Enterprise File Server Architecture](architecture/enterprise-file-server-architecture.png)
+
 This project demonstrates the design, deployment, security configuration, and validation of an enterprise file server within a Microsoft Active Directory domain environment.
 
 The solution provides centralized departmental file storage for Finance, Information Technology (IT), and Human Resources (HR), with access controlled through Active Directory security groups and Windows file system permissions.
